@@ -1,0 +1,52 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Recordings/
+
+# Asset meta data should be committed; these are generated
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# IDE / generated project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+ExportedObj/
+.consulo/
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+sysinfo.txt
+
+*.slnx
